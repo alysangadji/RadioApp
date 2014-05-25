@@ -1,0 +1,27 @@
+#SceneScene1 {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 960px;
+	height : 540px;
+	background-color : #ffffff;
+	background: url('../../images/background.jpg') no-repeat center top;
+}
+
+#RadioPlayerPartialTitle {
+    position: absolute;
+    left: 40px;
+    top: 10px;
+    color: #ffffff;
+    font-size: large;
+    font-family: "Lucida Console", Monospace;
+}
+
+#listRadioChannel {
+    position : absolute;
+    left: 40px;
+    top: 100px;
+    width: 400px;
+    height: 375px;
+    color: #ffffff;
+}
